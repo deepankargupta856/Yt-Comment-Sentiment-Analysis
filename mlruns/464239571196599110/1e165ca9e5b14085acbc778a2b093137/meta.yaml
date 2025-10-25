@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464239571196599110/1e165ca9e5b14085acbc778a2b093137/artifacts
+end_time: 1761402937860
+entry_point_name: ''
+experiment_id: '464239571196599110'
+lifecycle_stage: active
+run_id: 1e165ca9e5b14085acbc778a2b093137
+run_name: righteous-boar-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761402892051
+status: 3
+tags: []
+user_id: deepa
