@@ -1,4 +1,4 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = C:\Users\deepa\AppData\Local\Temp
+    remote = awsremote
+['remote "awsremote"']
+    url = s3://proj-aws-bucket
